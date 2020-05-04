@@ -1,4 +1,4 @@
-# Advanced Regression Project
+# Telco churn analysis
 
 #### Hi! This is the first R-programming group project I did in my Business Analysis in R class. 
 
