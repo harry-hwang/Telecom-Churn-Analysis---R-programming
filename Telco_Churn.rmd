@@ -182,7 +182,7 @@ ggplot(no_dependents) +
 #spliting data to test and train using the rsample library.
 
 set.seed(123)
-train_test_split <- initial_split(churn, prop = 0.9)
+train_test_split <- initial_split(churn, prop = 0.8)
 train_test_split
 
 train<- training(train_test_split)
